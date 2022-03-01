@@ -1,0 +1,19 @@
+subdomain:testasp.vulweb.com
+Steps to reproduce:
+Step 1 :VIsit https://testasp.vulnweb.com/
+Step 2 :On the top menu you will find a search option.
+Step 3 :Click on it and you will be promted with the search box.
+Step 4 :you can intercept the request in the burp suite
+Step 5 :Now you can find different payload for XSS.
+Step 6 :Send the request to intruder and paste all the payload for XSS.
+Step 7 :Prepare a report for it.
+
+Impact : CXX scripting can lead to many problem in cyber secrurity . the one of the most comman is stealling of cokkies packegies ,and from the finding log in ID , Password , some time credensiaul as well it 
+        quite trobles some bug .
+
+Mittigation : If you want to prevent your website to be vulnerable of CXX scripting you can just enable noscript on broswer.
+POC:incliuding screenshot/code including the report of acttacking is below .
+
+     imag:Problem 3
+
+ 
